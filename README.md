@@ -1,4 +1,4 @@
-# Blower-HOA-Controls with PLC Programming
+# Blower-HOA-Controls with Ladder Logic Programming
 Design and Implementation of Blower HOA Controls 
 
 This project involves designing a Blower Controls in terms of three operating modes - Hand, Off and Auto. 
